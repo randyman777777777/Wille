@@ -1,0 +1,4 @@
+Windows isn't as useful as most other operating systems so the installer
+packages are worth downloading since they have pretty much everything of 
+use on Windows + software to have the functionality of a better OS (minus
+privacy)

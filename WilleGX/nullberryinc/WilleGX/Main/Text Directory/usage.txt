@@ -1,0 +1,2 @@
+To type the contents of a file, enter the type command followed by the
+desired file.
