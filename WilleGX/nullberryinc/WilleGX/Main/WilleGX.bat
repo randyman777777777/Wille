@@ -106,6 +106,8 @@ if '%choice%'=='v' goto :choicev
 
 if '%choice%'=='o' goto :choiceo
 
+if '%choice%'=='n' goto :choicen
+
 echo "%choice%" is not valid, try again
 echo.
 timeout /t 4 >nul
@@ -281,6 +283,11 @@ goto :a
 
 :choicev
 start oras
+cls
+goto :a
+
+:choicen
+start https://grabify.link
 cls
 goto :a
 
