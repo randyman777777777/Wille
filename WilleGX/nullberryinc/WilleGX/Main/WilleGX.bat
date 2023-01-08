@@ -271,6 +271,7 @@ timeout /t 1 >nul
 echo 						See you next time!
 echo						  %time%  %date%
 timeout /t 2 >nul
+cls
 exit
 
 :choicej
